@@ -1,1 +1,1 @@
-RetroShare教程：https://gongzisun.github.io/
+RetroShare FAQ：https://gongzisun.github.io/
